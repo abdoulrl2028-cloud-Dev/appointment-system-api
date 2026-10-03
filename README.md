@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abdoulrl2028-cloud-Dev/abdoulrl2028-cloud-Dev/main/assets/projects/appointment.jpg" alt="API de agendamentos" width="100%">
+</p>
+
 # appointment-system-api
 O que o sistema faz  Cadastro de usuários  Cadastro de serviços  Agendamento de horários  Listagem paginada  Validações  Tratamento global de erros  Documentação automática com Swagger
 
